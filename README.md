@@ -3,4 +3,5 @@ This Bash script reports disk usage of a given directory. It checks that the use
 
 # Steps to use it
 chmod +x check_size.sh
+
 ./check_size.sh /path/to/directory
